@@ -329,9 +329,9 @@ body.light-theme {
 }
 
 .home__img {
-  width: 160px;
+  width: 190px;
   max-height: auto;
-  height: auto;
+  height: 280px;
   justify-self: center;
 }
 
