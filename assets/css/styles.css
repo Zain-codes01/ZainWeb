@@ -503,7 +503,8 @@ body.light-theme {
 }
 
 .about__info {
-  display: grid;
+  display: flex;
+  justify-content:center;
   grid-template-columns: repeat(3, 1fr);
   gap: 0.5rem;
   margin-bottom: 2rem;
