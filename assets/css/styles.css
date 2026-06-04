@@ -330,6 +330,9 @@ body.light-theme {
 
 .home__img {
   width: 160px;
+  max-height: auto;
+  height: auto;
+  justify-self: center;
 }
 
 .home__handle {
